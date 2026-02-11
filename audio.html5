@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>audio tag</title>
+</head>
+<body>
+    <h1> AUDIOS </h1>
+    <audio src="audio1" controls></audio><br>
+    <audio src="audio2" controls></audio><br>
+    <audio src="audio3" controls></audio><br>
+    <audio src="audio4" controls></audio><br>
+    <audio src="audio5" controls></audio>
+</body>
+</html>
